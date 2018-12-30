@@ -1,9 +1,9 @@
 def fizzbuzz(num)
-  if num = 3
+  if num == 3
     print "Fizz"
-  elsif num = 5
+  elsif num == 5
     print "Buzz"
-  elsif num = 15
+  elsif num == 15
    print "FizzBuzz"
  else
    print "none"
