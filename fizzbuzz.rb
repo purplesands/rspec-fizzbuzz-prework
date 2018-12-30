@@ -1,5 +1,5 @@
 num = 15
-def fizzbuzz(num)
+def fizzbuzz(int)
   if int % 3 == 0
     print "Fizz"
   elsif int % 3 == 0
