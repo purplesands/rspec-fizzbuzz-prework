@@ -1,10 +1,10 @@
 num = 15
 def fizzbuzz(num)
-  if num == 3
+  if int % 3 == 0
     print "Fizz"
-  elsif num == 5
+  elsif int % 3 == 0
     print "Buzz"
-  elsif num ==15
+  elsif int % 3 == 0 && int % 5 == 0
    print "FizzBuzz"
  else
    print "nil"
