@@ -5,4 +5,6 @@ def fizzbuzz(num)
     print "Buzz"
   elsif num = 15
    print "FizzBuzz"
+ else
+   print "none"
 end
