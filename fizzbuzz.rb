@@ -1,3 +1,4 @@
+num = 15
 def fizzbuzz(num)
   if num == 3
     print "Fizz"
