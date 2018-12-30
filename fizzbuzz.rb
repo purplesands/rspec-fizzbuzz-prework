@@ -1,4 +1,4 @@
-num = 15
+int = 15
 def fizzbuzz(int)
   if int % 3 == 0
     print "Fizz"
